@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j6I5Z/+fOR9cGu6xDeHDkqqyKKucLWQUT4pynf4P64LpTVS5hS1PMtWCH+dWme/O3C8SPkZO0teZoccIZrJFbw==",
+  "dgSpecHash": "9535kBJRrGTARkOU7A1prn52L8UqdtaN2k1BxJjnq8yMpw//avlfavEu4JAeFbuBSDiaQa5EthJg+TD7dmeN3Q==",
   "success": true,
-  "projectFilePath": "e:\\year 3\\InternetScripting\\CourseworkTwo\\Project\\ChinookWebApp.csproj",
+  "projectFilePath": "E:\\year 3\\c#\\chinook\\ChinookWebApp\\ChinookWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jillm\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\3.1.9\\microsoft.aspnetcore.diagnostics.entityframeworkcore.3.1.9.nupkg.sha512",
     "C:\\Users\\jillm\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

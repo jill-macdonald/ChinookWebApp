@@ -8849,11 +8849,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\year 3\\InternetScripting\\CourseworkTwo\\Project\\ChinookWebApp.csproj",
+      "projectUniqueName": "E:\\year 3\\c#\\chinook\\ChinookWebApp\\ChinookWebApp.csproj",
       "projectName": "ChinookWebApp",
-      "projectPath": "e:\\year 3\\InternetScripting\\CourseworkTwo\\Project\\ChinookWebApp.csproj",
+      "projectPath": "E:\\year 3\\c#\\chinook\\ChinookWebApp\\ChinookWebApp.csproj",
       "packagesPath": "C:\\Users\\jillm\\.nuget\\packages\\",
-      "outputPath": "e:\\year 3\\InternetScripting\\CourseworkTwo\\Project\\obj\\",
+      "outputPath": "E:\\year 3\\c#\\chinook\\ChinookWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jillm\\AppData\\Roaming\\NuGet\\NuGet.Config"

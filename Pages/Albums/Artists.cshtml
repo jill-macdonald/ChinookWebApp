@@ -1,0 +1,38 @@
+@page
+@using Models
+@model ChinookWebApp.Pages.Albums.AlbumArtistsModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div class="row">
+    <h1 class="display-2">Artists</h1>
+    <table class="table">
+        <thead class="thead-inverse">
+            <tr>
+                <th>Artist Id</th>
+                <th>Name</th>
+                <th></th>
+            </tr>
+        </thead>
+    <tbody>
+        @*This will display the artist of the album*@
+            @foreach (Artist artist in Model.Artists)
+            {
+                <tr>
+                    <td>@artist.ArtistId</td>
+                    <td>@artist.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+@* <div class="row">
+    <p>Enter a name & TrackId for a new track:&nbsp;</p>
+    <form method="POST">
+        <div><input asp-for="Track.Name" /></div>
+        <div><input asp-for="Track.TrackId" /></div>
+        <input type="submit" />
+    </form>
+</div> *@
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
